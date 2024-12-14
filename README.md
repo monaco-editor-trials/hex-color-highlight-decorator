@@ -4,6 +4,6 @@ This example demonstrates a custom decorator feature with highlighting hex color
 
 ## [⚡️ Play on Stackblitz](https://stackblitz.com/~/github.com/monaco-editor-trials/hex-color-highlight-decorator)
 
-## Preview
+## 🌟 Preview
 
 ![Preview](./preview.png)
